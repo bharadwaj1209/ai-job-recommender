@@ -1,5 +1,6 @@
-streamlit
-openai 
-pymupdf 
+﻿streamlit
+openai
+pymupdf
 python-dotenv
 apify-client
+groq
